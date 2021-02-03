@@ -1,0 +1,400 @@
+China
+1439323774
+India
+1380004385
+Estados Unidos
+331002647
+Indonesia
+273523621
+Pakistán
+220892331
+Brasil
+212559409
+Nigeria
+206139587
+Bangladés
+164689383
+Rusia
+145934460
+México
+128932753
+Japón
+126476458
+Etiopía
+114963583
+Filipinas
+109581085
+Egipto
+102334403
+Vietnam
+97338583
+R.D. Congo
+89561404
+Turquía
+84339067
+Irán
+83992953
+Alemania
+83783945
+Tailandia
+69799978
+Reino Unido
+67886004
+Francia
+65273512
+Italia
+60461828
+Tanzania
+59734213
+Sudáfrica
+59308690
+Birmania
+54409794
+Kenia
+53771300
+Corea del Sur
+51269183
+Colombia
+50882884
+España
+46754783
+Uganda
+45741000
+Argentina
+45195777
+Argelia
+43851043
+Sudán
+43849269
+Ucrania
+43733759
+Irak
+40222503
+Afganistán
+38928341
+Polonia
+37846605
+Canadá
+37742157
+Marruecos
+36910558
+Arabia Saudita
+34813867
+Uzbekistán
+33469199
+Perú
+32971846
+Angola
+32866268
+Malasia
+32365998
+Mozambique
+31255435
+Ghana
+31072945
+Yemen
+29825968
+Nepal
+29136808
+Venezuela
+28435943
+Madagascar
+27691019
+Camerún
+26545864
+Costa de Marfil
+26378275
+Corea del Norte
+25778815
+Australia
+25499881
+Níger
+24206636
+Sri Lanka
+21413250
+Burkina Faso
+20903278
+Malí
+20250834
+Rumania
+19237682
+Malaui
+19129955
+Chile
+19116209
+Kazajistán
+18776707
+Zambia
+18383956
+Guatemala
+17915567
+Ecuador
+17643060
+Siria
+17500657
+Países Bajos
+17134873
+Senegal
+16743930
+Camboya
+16718971
+Chad
+16425859
+Somalia
+15893219
+Zimbabue
+14862927
+Guinea
+13132792
+Ruanda
+12952209
+Benín
+12123198
+Burundi
+11890781
+Túnez
+11818618
+Bolivia
+11673029
+Bélgica
+11589616
+Haití
+11402533
+Cuba
+11326616
+Sudán del Sur
+11193729
+República Dominicana
+10847904
+República Checa
+10708982
+Grecia
+10423056
+Jordania
+10203140
+Portugal
+10196707
+Azerbaiyán
+10139175
+Suecia
+10099270
+Honduras
+9904608
+Emiratos Árabes Unidos
+9890400
+Hungría
+9660350
+Tayikistán
+9537642
+Bielorrusia
+9449321
+Austria
+9006400
+Papúa Nueva Guinea
+8947027
+Serbia
+8737370
+Israel
+8655541
+Suiza
+8654618
+Togo
+8278737
+Sierra Leona
+7976985
+Hong Kong
+7496988
+Laos
+7275556
+Paraguay
+7132530
+Bulgaria
+6948445
+Libia
+6871287
+Líbano
+6825442
+Nicaragua
+6624554
+Kirguistán
+6524191
+El Salvador
+6486201
+Turkmenistán
+6031187
+Singapur
+5850343
+Dinamarca
+5792203
+Finlandia
+5540718
+Congo
+5518092
+Eslovaquia
+5459643
+Noruega
+5421242
+Omán
+5106622
+Estado de Palestina
+5101416
+Costa Rica
+5094114
+Liberia
+5057677
+Irlanda (isla)
+4937796
+República Centroafricana
+4829764
+Nueva Zelanda
+4822233
+Mauritania
+4649660
+Panamá
+4314768
+Kuwait
+4270563
+Croacia
+4105268
+Moldavia
+4033963
+Georgia (desambiguación)
+3989175
+Eritrea
+3546427
+Uruguay
+3473727
+Bosnia-Herzegovina
+3280815
+Mongolia
+3278292
+Armenia
+2963234
+Jamaica
+2961161
+Catar
+2881060
+Albania
+2877800
+Puerto Rico
+2860840
+Lituania
+2722291
+Namibia
+2540916
+Gambia
+2416664
+Botsuana
+2351625
+Gabón
+2225728
+Lesoto
+2142252
+República de Macedonia
+2083380
+Eslovenia
+2078932
+Guinea-Bisáu
+1967998
+Letonia
+1886202
+Baréin
+1701583
+Guinea Ecuatorial
+1402985
+Trinidad y Tobago
+1399491
+Estonia
+1326539
+Timor Oriental
+1318442
+Mauricio
+1271767
+Chipre
+1207361
+Suazilandia
+1160164
+Yibuti
+988002
+Fiyi
+896444
+Reunión (departamento de Francia)
+895308
+Comoras
+869595
+Guyana
+786559
+Bután
+771612
+Islas Salomón
+686878
+Macao
+649342
+Montenegro
+628062
+Luxemburgo
+625976
+Sahara Occidental
+597330
+Surinam
+586634
+Cabo Verde
+555988
+Maldivas
+540542
+Malta
+441539
+Brunéi
+437483
+Guadalupe (Francia)
+400127
+Belice
+397621
+Bahamas
+393248
+Martinica
+375265
+Islandia
+341250
+Vanuatu
+307150
+Guayana Francesa
+298682
+Barbados
+287371
+Nueva Caledonia
+285491
+Polinesia Francesa
+280904
+Mayotte
+272813
+Santo Tomé y Príncipe
+219161
+Samoa
+198410
+Santa Lucía
+183629
+Islas del Canal
+173859
+Guam
+168783
+Curazao
+164100
+Kiribati
+119446
+Micronesia+%28Fed.+States+of%29
+115021
+Granada (país)
+112519
+San Vicente y las Granadinas
+110947
+Aruba
+106766
+Tonga
+105697
+Islas Vírgenes de los Estados Unidos
+104423
+Seychelles
+98340
+Antigua y Barbuda
+97928
